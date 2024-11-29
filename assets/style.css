@@ -13,6 +13,7 @@ flex-basis:calc(33%-6rem);
 .cartao__conteudo{
     text-align:center;
     height:10%;
+    width:20%;
 }
 body{
 background-color:darkslategray;
