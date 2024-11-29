@@ -5,9 +5,15 @@
 .cartao{
     margin:1rem 1rem;
 background-color:black
-
+height:20rem;
+flex-grow:1;
+flex-basis:calc(33%-6rem)
 }
 
+.cartao__conteudo{
+    text-align:center;
+    height:100%;
+}
 body{
 background-color:darkslategray;
 font-family:"Parkinsans";
