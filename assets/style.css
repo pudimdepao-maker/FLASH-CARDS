@@ -6,6 +6,7 @@
     margin:1rem 1rem;
 background-color:black;
 height:20rem;
+width:25%;
 flex-grow:1;
 flex-basis:calc(33%-6rem);
 }
